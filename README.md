@@ -1,3 +1,5 @@
+Keywords: C++, Automata theory, Deterministic/Non-Deterministic Finite Automation, 
+
 📝 Task Objective:
 
 You are required to implement two algorithms that find the minimal Deterministic Finite Automaton (DFA) that accepts either the intersection or the union of languages represented by two given Non-Deterministic Finite Automata (NFA). Specifically, you must implement two functions in C++ with the following signatures:
